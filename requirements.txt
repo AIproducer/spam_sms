@@ -1,8 +1,8 @@
 streamlit 
-pickle  == 0.7.5
 string
 nltk.corpus  
 stopwords
 nltk
 nltk.stem.porter 
 PorterStemmer
+pickle
