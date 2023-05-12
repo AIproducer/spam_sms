@@ -1,118 +1,114 @@
-alembic==1.8.1
-altair @ file:///tmp/build/80754af9/altair_1599835197802/work
-appdirs==1.4.4
-asttokens==2.0.8
-attrs @ file:///C:/b/abs_09s3y775ra/croot/attrs_1668696195628/work
-autopage==0.5.1
-backcall==0.2.0
-blinker==1.4
-Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
-brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
-certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
-cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///C:/ci/click_1646038595831/work
-cliff==4.0.0
-cmaes==0.8.2
-cmd2==2.4.2
-colorama==0.4.5
-colorlog==6.7.0
-comm @ file:///C:/b/abs_1419earm7u/croot/comm_1671231131638/work
-commonmark @ file:///Users/ktietz/demo/mc3/conda-bld/commonmark_1630649545323/work
-contourpy @ file:///C:/b/abs_d5rpy288vc/croots/recipe/contourpy_1663827418189/work
-cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-debugpy==1.6.3
-decorator==5.1.1
-entrypoints==0.4
-executing==1.1.1
-fonttools==4.25.0
-future @ file:///C:/b/abs_3dcibf18zi/croot/future_1677599891380/work
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
-GitPython @ file:///C:/b/abs_49tt462f1q/croot/gitpython_1674662788764/work
-idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
-importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
-importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
-ipykernel==6.16.0
-ipython==8.5.0
-ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
-jedi==0.18.1
-Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
-joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
-jsonschema @ file:///C:/b/abs_6ccs97j_l8/croot/jsonschema_1676558690963/work
-jupyter-core==4.11.1
-jupyter_client==7.4.2
-jupyterlab-widgets @ file:///C:/b/abs_38ad427jkz/croot/jupyterlab_widgets_1679055289211/work
-kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
-Mako==1.2.3
-MarkupSafe @ file:///C:/ci/markupsafe_1654508077284/work
-matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
-matplotlib-inline==0.1.6
-mkl-fft==1.3.6
-mkl-random @ file:///C:/Users/dev-admin/mkl/mkl_random_1682977971003/work
-mkl-service==2.4.0
-munkres==1.1.4
-nest-asyncio==1.5.6
-nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
-numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
-numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
-optuna==3.0.2
-packaging==21.3
-pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
-parso==0.8.3
-pbr==5.10.0
-pickleshare==0.7.5
-Pillow==9.4.0
-platformdirs @ file:///C:/b/abs_73cc5cz_1u/croots/recipe/platformdirs_1662711386458/work
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
-prettytable==3.4.1
-prompt-toolkit==3.0.31
-protobuf==3.20.3
-psutil==5.9.2
-pure-eval==0.2.2
-pyarrow==11.0.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pydeck @ file:///C:/Windows/TEMP/abs_d25851b0-2795-4554-8068-f12d67b4bbaepda393r7/croots/recipe/pydeck_1657894563802/work
-Pygments==2.13.0
-Pympler @ file:///tmp/build/80754af9/pympler_1602785470644/work
-pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
-pyparsing==3.0.9
-pyperclip==1.8.2
-pyreadline3==3.4.1
-pyrsistent @ file:///C:/ci/pyrsistent_1636093225342/work
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
-python-dateutil==2.8.2
-pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
-pywin32==304
-PyYAML==6.0
-pyzmq==24.0.1
-regex @ file:///C:/ci/regex_1658258307256/work
-requests @ file:///C:/b/abs_41owkd5ymz/croot/requests_1682607524657/work
-rich @ file:///C:/Windows/TEMP/abs_7anftszm_e/croots/recipe/rich_1659708309427/work
-scikit-learn @ file:///C:/b/abs_a0emltxu06/croot/scikit-learn_1680198772090/work
-scipy==1.10.1
-seaborn @ file:///C:/b/abs_68ltdkoyoo/croot/seaborn_1673479199997/work
-semver @ file:///tmp/build/80754af9/semver_1603822362442/work
-six==1.16.0
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-stack-data==0.5.1
-stevedore==4.0.0
-streamlit @ file:///C:/b/abs_fbcea49a7l/croot/streamlit_1673469537084/work
-tensorflow-gpu==2.10.0
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
-tornado==6.2
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
-traitlets==5.5.0
-typing_extensions @ file:///C:/b/abs_a1bb332wcs/croot/typing_extensions_1681939523095/work
-tzlocal @ file:///C:/b/abs_961jok6k6w/croot/tzlocal_1668627423616/work
-urllib3 @ file:///C:/b/abs_3ce53vrdcr/croot/urllib3_1680254693505/work
-validators @ file:///tmp/build/80754af9/validators_1612286467315/work
-watchdog @ file:///C:/ci/watchdog_1638367441841/work
-wcwidth==0.2.5
-widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_1679313880295/work
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
-wordcloud @ file:///D:/bld/wordcloud_1682961746405/work
-zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+Bottleneck          1.3.5
+brotlipy            0.7.0
+cachetools          4.2.2
+certifi             2022.12.7
+cffi                1.15.1
+charset-normalizer  2.0.4
+click               8.0.4
+cliff               4.0.0
+cmaes               0.8.2
+cmd2                2.4.2
+colorama            0.4.5
+colorlog            6.7.0
+comm                0.1.2
+commonmark          0.9.1
+contourpy           1.0.5
+cryptography        39.0.1
+cycler              0.11.0
+debugpy             1.6.3
+decorator           5.1.1
+entrypoints         0.4
+executing           1.1.1
+fonttools           4.25.0
+future              0.18.3
+gitdb               4.0.7
+GitPython           3.1.30
+idna                3.4
+importlib-metadata  6.0.0
+importlib-resources 5.2.0
+ipykernel           6.16.0
+ipython             8.5.0
+ipywidgets          8.0.4
+jedi                0.18.1
+Jinja2              3.1.2
+joblib              1.1.1
+jsonschema          4.17.3
+jupyter_client      7.4.2
+jupyter-core        4.11.1
+jupyterlab-widgets  3.0.5
+kiwisolver          1.4.4
+Mako                1.2.3
+MarkupSafe          2.1.1
+matplotlib          3.7.1
+matplotlib-inline   0.1.6
+mkl-fft             1.3.6
+mkl-random          1.2.2
+mkl-service         2.4.0
+munkres             1.1.4
+nest-asyncio        1.5.6
+nltk                3.7
+numexpr             2.8.4
+numpy               1.24.3
+optuna              3.0.2
+packaging           21.3
+pandas              1.5.3
+parso               0.8.3
+pbr                 5.10.0
+pickleshare         0.7.5
+Pillow              9.4.0
+pip                 23.1.2
+platformdirs        2.5.2
+pooch               1.4.0
+prettytable         3.4.1
+prompt-toolkit      3.0.31
+protobuf            3.20.3
+psutil              5.9.2
+pure-eval           0.2.2
+pyarrow             11.0.0
+pycparser           2.21
+pydeck              0.7.1
+Pygments            2.13.0
+Pympler             0.9
+pyOpenSSL           23.0.0
+pyparsing           3.0.9
+pyperclip           1.8.2
+pyreadline3         3.4.1
+pyrsistent          0.18.0
+PySocks             1.7.1
+python-dateutil     2.8.2
+pytz                2022.7
+pywin32             304
+PyYAML              6.0
+pyzmq               24.0.1
+regex               2022.7.9
+requests            2.29.0
+rich                12.5.1
+scikit-learn        1.2.2
+scipy               1.10.1
+seaborn             0.12.2
+semver              2.13.0
+setuptools          66.0.0
+six                 1.16.0
+smmap               4.0.0
+stack-data          0.5.1
+stevedore           4.0.0
+streamlit           1.22.0
+tenacity            8.2.2
+tensorflow-gpu      2.10.0
+threadpoolctl       2.2.0
+toml                0.10.2
+toolz               0.12.0
+tornado             6.2
+tqdm                4.65.0
+traitlets           5.5.0
+typing_extensions   4.5.0
+tzlocal             2.1
+urllib3             1.26.15
+validators          0.18.2
+watchdog            2.1.6
+wcwidth             0.2.5
+wheel               0.38.4
+widgetsnbextension  4.0.5
+win-inet-pton       1.1.0
+wordcloud           1.9.1.1
+zipp                3.11.0
